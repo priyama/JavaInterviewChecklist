@@ -21,3 +21,6 @@ Misc
 -Trie
 -PowerSet-http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
 
+
+To know:
+Print nested arrays: Arrays.deepToString(a)
