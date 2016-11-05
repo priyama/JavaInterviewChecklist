@@ -1,2 +1,2 @@
 # JavaInterviewChecklist
-Java things to check
+ - [insert] // insert value into tree
