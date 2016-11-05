@@ -30,7 +30,7 @@ Algo
  - Heap
 
 Misc
- - Trie +1:
+ - Trie :+1:
  - PowerSet-http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
 
 
