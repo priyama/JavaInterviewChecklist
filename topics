@@ -14,7 +14,7 @@ Algo
 -Binary Search
 -Sorting
 -Tree
- - [x] insert // insert value into tree
+ - [insert] // insert value into tree
    get_node_count // get count of values stored
    print_values // prints the values in the tree, from min to max
    delete_tree
