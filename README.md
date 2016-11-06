@@ -24,8 +24,9 @@ Algo
    - get_min // returns the minimum value stored in the tree
    - get_max // returns the maximum value stored in the tree
    - is_binary_search_tree
-   - delete_value
+   - delete_value //Delete Node in a BST  (Leetcode Solution-Revise)
    - get_successor // returns next-highest value in tree after given value, -1 if none
+   - Lowest Commom Ancestor http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
  - Graph
  - Heap
 
