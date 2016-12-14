@@ -32,7 +32,9 @@ Algo
 
 Misc
  - Trie :+1:
- - PowerSet-http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
+ - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
+ - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
+ - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
 
 
 To know:
