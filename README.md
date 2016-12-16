@@ -66,6 +66,10 @@ Algo
   - Design Twitter
   - Find kth smallest/largest element
 
+Design
+ - https://github.com/checkcheckzz/system-design-interview
+ - All CTCI problems
+ 
 Misc
  - Trie :+1:
  - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
