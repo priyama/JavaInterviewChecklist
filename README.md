@@ -39,7 +39,7 @@ Misc
  - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
  - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
  - Overlapping Sets- AVL Tree
- - Integer Multiplication
+ - Integer Multiplication - Karatsuba Algorithm
  - Power
  - If we had a list of n nodes, what are the maximum number of edges there can be for a directed acyclic graph
 
