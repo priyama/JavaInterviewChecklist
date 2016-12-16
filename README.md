@@ -2,6 +2,7 @@
  Java
  - Comparable vs Comparator
  - Hash
+  - https://www.coursera.org/learn/data-structures/lecture/2yY2h/chaining-scheme
  - static
  - exception
  - Thread
