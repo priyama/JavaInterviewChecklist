@@ -1,9 +1,7 @@
 # InterviewChecklist
  Java
- - Comparable/Comparator
+ - Comparable vs Comparator
  - Hash
- - String
- - Reflection
  - static
  - exception
  - Thread
@@ -12,42 +10,82 @@
 
 Algo
  - LinkedList
+  - 	Linked List Cycle
+  - 	Remove Nth Node From End of List
+  - 	Merge Two Sorted Lists
+  -  Intersection of Two Linked Lists
+  - 	Remove Duplicates from Sorted List
+  - 	Palindrome Linked List
+  
+ -String 
+  - CTCI all problems
+  - Read String builder from CTCI
+  - new String vs Literal String - http://stackoverflow.com/questions/14757978/new-string-vs-literal-string-performance
+  - StringBuffer vs String Builder
+ 
  - DP
+  - Best Time to Buy and Sell Stock
+  - House Robber
+  - Climbing Stairs
+  - Unique Paths
+  
  - Binary Search
+  - Can be used for monotonically increasing / decreasing function. Ex : sqrt(x)
+  - First and last occurance of a number : https://www.youtube.com/watch?v=OE7wUUpJw6I
+  - No of rotation of sorted array: https://www.youtube.com/watch?v=4qjprDkJrjY
+
+ 
  - Sorting
+  - QuickSort
+  - MergeSort (Do for LinkedList also)
+  - Why is HeapSort unstable?
+ 
  - Tree
-   - [insert] // insert value into tree
-   - get_node_count // get count of values stored
-   - print_values // prints the values in the tree, from min to max
-   - delete_tree
-   - is_in_tree // returns true if given value exists in the tree
-   - get_height // returns the height in nodes (single node's height is 1)
-   - get_min // returns the minimum value stored in the tree
-   - get_max // returns the maximum value stored in the tree
-   - is_binary_search_tree
-   - delete_value //Delete Node in a BST  (Leetcode Solution-Revise)
-   - get_successor // returns next-highest value in tree after given value, -1 if none
+   - Inorder/PostOrder/Preorder/Level Order Traversal
+   - insert value into tree
+   - Min depth
+   - Max depth
+   - Sum of Left Leaf
+   - Serialize and Deserialize
+   - Find the maximum value stored in the tree
+   - Validate BST
+   - Delete Node in a BST  (Leetcode Solution-Revise)
    - Lowest Commom Ancestor http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+   
  - Graph
+  - Graph reprsentation - (Pros and Cons)
   - BFS
-  - DFS
+  - DFS 
+   - check cyclic/acyclic
+   - Topological sort
+   - Connected components in a graph
+   - Bipartite graph
   - Travelling Salesman Problem
+  
  - Heap
+  - Design Twitter
+  - Find kth smallest/largest element
 
 Misc
  - Trie :+1:
  - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
  - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
  - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
- - Overlapping Sets- AVL Tree
+ - Overlapping Sets- http://www.geeksforgeeks.org/interval-tree/
  - Integer Multiplication - Karatsuba Algorithm
  - Power - http://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
  - Maximum number of edges in a directed acyclic graph - https://www.careercup.com/question?id=6314916858298368
 
-To know:
- - Print nested arrays: Arrays.deepToString(a)
-
 Links To Practice
  - https://www.niceideas.ch/roller2/badtrash/entry/hard_software_engineering_interview_questions
  - http://www.businessinsider.com/15-mind-bending-interview-questions-that-every-google-engineer-can-answer-2012-1?op=1
+
+To know Basics:
+ - Print nested arrays: Arrays.deepToString(a)
+ - char [] s= str.tocharArray()
+ - digits [i]= nums.charAt(i)-'a'
+ - Arrays.equals(array1, array2)
+ - Arrays.sort(array1)
+ - Avoid overflow in finding midpoint by changing mid = (start + end)/2 to mid = start + (end - start)/2
+ - Avoid overflow in multiplication by converting it to division. Ex: y > x*x can be checked as y/x>x
 
