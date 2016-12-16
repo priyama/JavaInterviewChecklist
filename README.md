@@ -65,8 +65,10 @@ Algo
   - Travelling Salesman Problem
   
  - Heap
-  - Design Twitter
+  - Implement Max Heap - http://algorithms.tutorialhorizon.com/binary-min-max-heap/
+  - Design Twitter - 10 most recent tweets
   - Find kth smallest/largest element
+  - Top K Frequent Elements
 
 Design
  - https://github.com/checkcheckzz/system-design-interview
