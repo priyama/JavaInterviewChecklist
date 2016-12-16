@@ -17,7 +17,7 @@ Algo
   - 	Remove Duplicates from Sorted List
   - 	Palindrome Linked List
   
- -String 
+ - String 
   - CTCI all problems
   - Read String builder from CTCI
   - new String vs Literal String - http://stackoverflow.com/questions/14757978/new-string-vs-literal-string-performance
@@ -54,13 +54,13 @@ Algo
    
  - Graph
   - Graph reprsentation - (Pros and Cons)
-  - Travelling Salesman Problem
   - BFS
   - DFS 
    - check cyclic/acyclic
    - Topological sort
    - Connected components in a graph
    - Bipartite graph
+  - Travelling Salesman Problem
   
  - Heap
   - Design Twitter
