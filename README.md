@@ -32,6 +32,7 @@ Algo
   
  - Binary Search
   - Can be used for monotonically increasing / decreasing function. Ex : sqrt(x)
+  - Square root : https://www.interviewbit.com/problems/square-root-of-integer/
   - First and last occurance of a number : https://www.youtube.com/watch?v=OE7wUUpJw6I
   - No of rotation of sorted array: https://www.youtube.com/watch?v=4qjprDkJrjY
 
