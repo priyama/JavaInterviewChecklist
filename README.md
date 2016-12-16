@@ -7,6 +7,7 @@
  - static
  - exception
  - Thread
+ - Generics
 
 
 Algo
@@ -40,8 +41,8 @@ Misc
  - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
  - Overlapping Sets- AVL Tree
  - Integer Multiplication - Karatsuba Algorithm
- - Power
- - If we had a list of n nodes, what are the maximum number of edges there can be for a directed acyclic graph
+ - Power - http://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
+ - Maximum number of edges in a directed acyclic graph - https://www.careercup.com/question?id=6314916858298368
 
 To know:
  - Print nested arrays: Arrays.deepToString(a)
