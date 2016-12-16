@@ -54,13 +54,13 @@ Algo
    
  - Graph
   - Graph reprsentation - (Pros and Cons)
+  - Travelling Salesman Problem
   - BFS
   - DFS 
    - check cyclic/acyclic
    - Topological sort
    - Connected components in a graph
    - Bipartite graph
-  - Travelling Salesman Problem
   
  - Heap
   - Design Twitter
