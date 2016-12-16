@@ -28,6 +28,9 @@ Algo
    - get_successor // returns next-highest value in tree after given value, -1 if none
    - Lowest Commom Ancestor http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
  - Graph
+  - BFS
+  - DFS
+  - Travelling Salesman Problem
  - Heap
 
 Misc
@@ -35,8 +38,15 @@ Misc
  - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
  - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
  - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
-
+ - Overlapping Sets- AVL Tree
+ - Integer Multiplication
+ - Power
+ - If we had a list of n nodes, what are the maximum number of edges there can be for a directed acyclic graph
 
 To know:
  - Print nested arrays: Arrays.deepToString(a)
+
+Links To Practice
+ - https://www.niceideas.ch/roller2/badtrash/entry/hard_software_engineering_interview_questions
+ - http://www.businessinsider.com/15-mind-bending-interview-questions-that-every-google-engineer-can-answer-2012-1?op=1
 
