@@ -43,7 +43,7 @@ Algo
   - First and last occurance of a number : https://www.youtube.com/watch?v=OE7wUUpJw6I
   - No of rotation of sorted array: https://www.youtube.com/watch?v=4qjprDkJrjY
 
- - Sorting
+ - Sorting - https://xmruibi.gitbooks.io/interview-preparation-notes/content/Algorithm/Sort/
   - QuickSort
   - MergeSort (Do for LinkedList also)
   - Why is HeapSort unstable?
