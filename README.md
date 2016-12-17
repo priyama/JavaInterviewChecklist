@@ -55,15 +55,15 @@ Algo
    - Preorder Traversal (Recursively/iteratively)
    - PostOrder Traversal (Recursively/iteratively)
    - Level Order Traversal (Recursively/iteratively)
-   - insert value into tree
+   - Invert a tree
    - Min depth
    - Max depth
    - Sum of Left Leaf
    - Serialize and Deserialize
-   - Find the maximum value stored in the tree
    - Validate BST
-   - Delete Node in a BST  (Leetcode Solution-Revise)
    - Lowest Commom Ancestor http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+   - Insert node in a BST
+   - Delete node in a BST  (Leetcode Solution-Revise)
    
  - Graph
   - Graph reprsentation - (Pros and Cons)
