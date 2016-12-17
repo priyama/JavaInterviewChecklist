@@ -30,6 +30,7 @@ Algo
   - Climbing Stairs
   - Unique Paths
   - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
+  - Paint Fence
   
  - Binary Search
   - Can be used for monotonically increasing / decreasing function. Ex : sqrt(x)
@@ -37,7 +38,6 @@ Algo
   - First and last occurance of a number : https://www.youtube.com/watch?v=OE7wUUpJw6I
   - No of rotation of sorted array: https://www.youtube.com/watch?v=4qjprDkJrjY
 
- 
  - Sorting
   - QuickSort
   - MergeSort (Do for LinkedList also)
