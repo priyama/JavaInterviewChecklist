@@ -84,6 +84,7 @@ Misc
  - Power - http://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
  - Maximum number of edges in a directed acyclic graph - https://www.careercup.com/question?id=6314916858298368
  - LRU Cache
+ - LFU Cache
 
 Links To Practice
  - https://www.niceideas.ch/roller2/badtrash/entry/hard_software_engineering_interview_questions
