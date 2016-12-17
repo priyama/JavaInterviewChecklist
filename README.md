@@ -47,6 +47,8 @@ Algo
   - QuickSort
   - MergeSort (Do for LinkedList also)
   - Why is HeapSort unstable?
+  - Arrange numbers such that they form the largest number : https://xmruibi.gitbooks.io/interview-preparation-notes/content/Algorithm/Sort/LargestNumber.html
+  - Sort Color : https://xmruibi.gitbooks.io/interview-preparation-notes/content/Algorithm/Sort/SortColorI.html
  
  - Tree
    - Inorder Traversal (Recursively/iteratively)
