@@ -73,7 +73,7 @@ Algo
    - Topological sort
    - Connected components in a graph
    - Bipartite graph
-  - Travelling Salesman Problem
+  - Travelling Salesman Problem :-1:
   
  - Heap
   - Implement Max Heap - http://algorithms.tutorialhorizon.com/binary-min-max-heap/
