@@ -17,11 +17,16 @@ Algo
   -  Intersection of Two Linked Lists
   - 	Remove Duplicates from Sorted List
   - 	Palindrome Linked List
+  -  Insertion Sort in LL
+  -  Remove duplicates from an unsorted linked list w/o using additional buffer
   
  - String 
-  - CTCI all problems
-  - Read String builder from CTCI
+  - Determine if a string has all unique characters (CTCI)
+  - Remove the duplicate characters in a string without using additional buffer (CTCI)
+  - Check if 2 strings are anagram (CTCI)
+  - Check if a string is a rotation of another string (CTCI)
   - new String vs Literal String - http://stackoverflow.com/questions/14757978/new-string-vs-literal-string-performance
+  - String builder - Read from CTCI
   - StringBuffer vs String Builder
  
  - DP
