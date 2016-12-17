@@ -73,21 +73,35 @@ Algo
   - Design Twitter - 10 most recent tweets
   - Find kth smallest/largest element
   - Top K Frequent Elements
+  
+ - Misc
+  - Trie :+1:
+  - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
+  - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
+  - 2sum with BST
+  - Continuous sequence with the largest sum
+  - Overlapping Sets- http://www.geeksforgeeks.org/interval-tree/
+  - Integer Multiplication - Karatsuba Algorithm
+  - Power - http://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
+  - Maximum number of edges in a directed acyclic graph - https://www.careercup.com/question?id=6314916858298368
+  - LRU Cache
+  - LFU Cache
 
 Design
  - All CTCI problems
  - https://github.com/checkcheckzz/system-design-interview
- 
-Misc
- - Trie :+1:
- - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
- - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
- - Overlapping Sets- http://www.geeksforgeeks.org/interval-tree/
- - Integer Multiplication - Karatsuba Algorithm
- - Power - http://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
- - Maximum number of edges in a directed acyclic graph - https://www.careercup.com/question?id=6314916858298368
- - LRU Cache
- - LFU Cache
+
+System/Networking
+ - Peer to Peer Architecture (Netflix)
+ - TCP vs UDP (Application)
+ - How TCP handles reliable delivery
+ - What happens after an URL is typeed into a browser
+ - IPv4 vs IPv6
+ - Routing Protocol
+ - Difference between a thread and a process
+ - Difference between Semaphore, Mutex and Spin lock
+ - Virtual Memory
+ - Measure time spent in context switching
 
 Links To Practice
  - https://www.niceideas.ch/roller2/badtrash/entry/hard_software_engineering_interview_questions
