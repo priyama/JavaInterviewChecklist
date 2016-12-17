@@ -74,8 +74,8 @@ Algo
   - Top K Frequent Elements
 
 Design
- - https://github.com/checkcheckzz/system-design-interview
  - All CTCI problems
+ - https://github.com/checkcheckzz/system-design-interview
  
 Misc
  - Trie :+1:
