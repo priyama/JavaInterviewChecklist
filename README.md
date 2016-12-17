@@ -43,10 +43,10 @@ Algo
   - Why is HeapSort unstable?
  
  - Tree
-   - Inorder Traversal
-   - Preorder Traversal
-   - PostOrder Traversal
-   - Level Order Traversal
+   - Inorder Traversal (Recursively/iteratively)
+   - Preorder Traversal (Recursively/iteratively)
+   - PostOrder Traversal (Recursively/iteratively)
+   - Level Order Traversal (Recursively/iteratively)
    - insert value into tree
    - Min depth
    - Max depth
