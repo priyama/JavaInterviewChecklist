@@ -36,6 +36,7 @@ Algo
   - Climbing Stairs
   - Unique Paths
   - Edit Distance- http://www.programcreek.com/2013/12/edit-distance-in-java/
+  - Knapsack Problem
   - Paint Fence
   
  - Binary Search
