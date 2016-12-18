@@ -25,6 +25,7 @@ Algo
   - Remove the duplicate characters in a string without using additional buffer (CTCI)
   - Check if 2 strings are anagram (CTCI)
   - Check if a string is a rotation of another string (CTCI)
+  - Longest palindromic substring
   - new String vs Literal String - http://stackoverflow.com/questions/14757978/new-string-vs-literal-string-performance
   - String builder - Read from CTCI
   - StringBuffer vs String Builder
