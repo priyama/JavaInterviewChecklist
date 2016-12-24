@@ -66,6 +66,7 @@ Algo
    - Lowest Commom Ancestor http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
    - Insert node in a BST
    - Delete node in a BST  (Leetcode Solution-Revise)
+   - Find all root-to-leaf paths where each path's sum equals the given sum- Leetcode
    
  - Graph
   - Graph reprsentation - (Pros and Cons)
