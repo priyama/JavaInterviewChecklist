@@ -89,7 +89,7 @@ Algo
   - PowerSet- http://javabypatel.blogspot.in/2015/10/all-subsets-of-set-powerset.html
   - 3sum- http://www.programcreek.com/2012/12/leetcode-3sum/
   - 2sum with BST
-  - Continuous sequence with the largest sum
+  - Continuous sequence with the largest sum- http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
   - Overlapping Sets- http://www.geeksforgeeks.org/interval-tree/
   - Integer Multiplication - Karatsuba Algorithm
   - Power - http://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
